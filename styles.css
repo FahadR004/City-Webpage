@@ -1,0 +1,244 @@
+
+
+/* body{
+    text-align: center;
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    text-shadow: 2px 2px black;
+    margin: 0;
+}
+
+#main_heading1 {
+    margin: 10px 0 5px 0;
+    background-color: black;
+    padding: 10px 5px;
+}
+
+#main_heading2 {
+    margin: 5px 0 10px 0;
+    background-color: black;
+    padding: 10px 5px;
+}
+
+.hero{
+    padding: 300px 0;
+    background-image: url("karachi.jpg");
+    background-size: cover;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    border-top: 25px solid black;
+    border-bottom: 25px solid black;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+
+.heading2 {
+    padding: 40px;
+    background-color: black;
+}
+
+.top_places {
+    background-image: url("karachi2.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    border-top: 25px solid black;    
+    border-bottom: 25px solid black;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.places {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.luckyone {
+    width: 300px;
+    word-wrap: normal;
+    margin: 150px 0;
+}
+
+.turtle_beach {
+    width: 300px;
+    word-wrap: normal;
+    margin: 150px 0;
+}
+
+.empress_market {
+    width: 300px;
+    word-wrap: normal;
+    margin: 150px 0;
+}
+
+h3, p {
+    background-color: black;
+    padding: 10px 5px;
+}
+
+
+#luckyone_img {
+    width: 230px;
+    border: 2px solid black;
+}
+
+#turtle_beach_img{
+    width: 180px;
+    border: 2px solid black;
+}
+
+#empress_market_img {
+    width: 200px;
+    border: 2px solid black;
+} */
+
+
+body{
+    text-align: center;
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    text-shadow: 2px 2px black;
+    margin: 0;
+}
+
+#main_heading1 {
+    margin: 10px 0 5px 0;
+    background-color: black;
+    padding: 10px;
+    border-radius: 4%;
+}
+
+#main_heading2 {
+    margin: 5px 0 10px 0;
+    background-color: black;
+    padding: 10px;
+    border-radius: 4%;
+
+}
+
+.hero{
+    padding: 300px 0;
+    background-image: url("karachi.jpg");
+    background-size: cover;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    border-top: 20px solid black;
+    border-bottom: 25px solid black;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.middle_portion {
+    background-image: url("karachi2.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    border-bottom: 25px solid black;
+}
+
+.top_places {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.heading2 {
+    background-color: black;
+    margin: 50px 0 20px 0;
+    padding: 20px 15px;
+    border-radius: 4%;
+}
+
+
+.places {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.utility_class_places{
+    width: 300px;
+    word-wrap: normal;
+    margin: 150px 0;
+}
+
+.middle_portion_headings {
+    width: 300px;
+    background-color: black;
+    display: inline;
+    margin: 0px auto;
+    padding: 10px;
+
+}
+
+p {
+    background-color: black;
+    padding: 5px;
+    border-radius: 4%;
+}
+
+#luckyone_img {
+    width: 200px;
+    height: 150px;
+    border: 3px solid black;
+    margin: 25px 0 23px 0;
+    border-radius: 4%;
+}
+
+#luckyone_img:hover {
+    width: 241px;
+    height: 200px;
+}
+
+#clifton_beach{
+    width: 180px;
+    height: 150px;
+    border: 3px solid black;
+    margin: 18px 0 7px 0;
+    border-radius: 4%;
+}
+
+#clifton_beach:hover {
+    width: 230px;
+    height: 200px;
+}
+
+#empress_market {
+    width: 181px;
+    height: 150px;
+    border: 3px solid black;
+    margin: 19px 0 5px 0;
+    border-radius: 4%;
+}
+
+#empress_market:hover {
+    width: 231px;
+    height: 200px;
+}
